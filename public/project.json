@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Product Recommendation",
+      "image": "https://i.ibb.co.com/vvTy0Dyq/Screenshot-8.png",
+      "description": "A personal Product showcasing my skills and projects.",
+      "technologies": ["React", "Tailwind CSS", "DaisyUI"],
+      "liveLink": "https://product-recommendation-system.netlify.app/",
+      "githubLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-sirazulislam3734",
+      "challenges": "Implementing animations and making it fully responsive.",
+      "improvements": "Plan to add a blog section and more interactive elements.",
+      "features": [
+        "Personalized Recommendations – Suggests products based on user behavior.",
+        "AI/ML-Based Filtering – Uses machine learning to analyze preferences.",
+        "User Reviews & Ratings – Enhances recommendations based on feedback.",
+        "Category-Based Suggestions – Recommends items from similar categories.",
+        "Real-Time Updates – Adapts recommendations dynamically as users browse."
+      ]
+
+    },
+    {
+      "id": 2,
+      "name": "E-commerce Platform",
+      "image": "https://i.ibb.co.com/pBN9XDPS/Screenshot-9.png",
+      "description": "A fully functional e-commerce web application E-commerce Platform.",
+      "technologies": ["Express", "Node.js", "MongoDB"],
+      "liveLink": "https://bistro-boss-1e985.web.app",
+      "githubLink": "https://github.com/sirazulislam3734/bistro-boss-web-site",
+      "challenges": "Managing complex state and integrating payment gateway.",
+      "improvements": "Optimize performance and add AI-based recommendations.",
+      "features": [
+        "Dynamic Navigation: A structured navigation bar with an active route indicator.",
+        "Product Categories: Side navigation for easy filtering by category.",
+        "Wishlist and Cart Functionality with data persistence.",
+        "Product Filtering and Sorting.",
+        "Detailed Product Pages with add-to-cart and wishlist feature."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Parcel Management",
+      "image": "https://i.ibb.co.com/Q7Lh7Hmx/Screenshot-10.png",
+      "description": "A real-time Parcel Management with socket integration.",
+      "technologies": ["React", "Express.js", "MongoDB"],
+      "liveLink": "https://parcel-management-24b3b.web.app",
+      "githubLink": "https://github.com/Programming-Hero-Web-Course4/b10a12-client-side-sirazulislam3734",
+      "challenges": "Handling multiple concurrent users and real-time updates.",
+      "improvements": "Improve UI/UX and add voice/video calling features.",
+      "features": [
+        "Parcel Tracking System – Real-time parcel status updates",
+        "User Role Management – Admin, courier, and customer access control.",
+        "Automated Notifications – Email/SMS alerts for parcel updates.",
+        "Parcel Scheduling – Book and schedule deliveries.",
+        "Secure Payment System – Online payments and invoicing."
+      ]
+    }
+  ]
