@@ -28,7 +28,7 @@ const Home = () => {
 
         {/* ✅ Corrected Resume Download Button */}
         <a 
-          href="https://portfolio-website-1351.netlify.app/resume.pdf" 
+          href="/resume.pdf" 
           download 
           target="_blank" 
           rel="noopener noreferrer"
@@ -48,3 +48,5 @@ const Home = () => {
 };
 
 export default Home;
+
+// https://drive.google.com/file/d/16PdqBWhg4XpXApN5wUSNgONKz1DsaN5d/view?usp=sharing
