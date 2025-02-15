@@ -37,11 +37,11 @@ const Projects = () => {
                       <div className="mb-3">
                       <span className="text-sm mr-1">Technologies: </span>
                         {project?.technologies.map((tech, index) => (
-                          <span
+                          <div
                             key={index}
                             className="bg-gray-300 px-1 py-1 rounded-lg mr-1"
                           > {tech}
-                          </span>
+                          </div>
                         ))}
                       </div>
                     </a>
