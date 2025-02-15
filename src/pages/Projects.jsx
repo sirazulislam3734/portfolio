@@ -34,14 +34,14 @@ const Projects = () => {
                 <div className="px-4 py-6 bg-white border border-gray-400 text">
                   <div>
                     <a className="inline-block mb-4 text-xs font-bold capitalize border-b-2 border-blue-600 hover:text-blue-600"> 
-                      <div className="mb-3">
+                      <div className="mb-3 flex">
                       <span className="text-sm mr-1">Technologies: </span>
                         {project?.technologies.map((tech, index) => (
-                          <div
+                          <span
                             key={index}
                             className="bg-gray-300 px-1 py-1 rounded-lg mr-1"
                           > {tech}
-                          </div>
+                          </span>
                         ))}
                       </div>
                     </a>
